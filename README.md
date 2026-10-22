@@ -31,14 +31,14 @@ Apasionado por el desarrollo web moderno, la creación de interfaces interactiva
 
 ## 📌 Proyectos destacados
 
-### 🌐 [Nexus Dev Studio](https://nexus-dev-studio.vercel.app)
+### 🌐 [Nova Web](https://novaweb-agency.vercel.app)
 
 **Portafolio web personal**
 
 Sitio web profesional diseñado para presentar proyectos de desarrollo de software, aplicaciones web y tecnologías utilizadas.
 
-- 🔗 [Ver proyecto en línea](https://nexus-dev-studio.vercel.app)
-- 📂 [Ver repositorio en GitHub](https://github.com/albertoposada500-coder/nexus-dev-studio)
+- 🔗 [Ver proyecto en línea](https://novaweb-agency.vercel.app)
+- 📂 [Ver repositorio en GitHub](https://github.com/albertoposada500-coder/Nova-Web-Agency)
 
 ### 💈 [Apex Grooming Club](https://apex-grooming-club.vercel.app)
 
